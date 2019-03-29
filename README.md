@@ -1,9 +1,8 @@
 # Mega Sg Jailbreak
 
 Custom "*Jailbreak*" firmware for the [Analogue Mega
-Sg](https://www.analogue.co/pages/mega-sg/) (regular and *ghostly*
-models) that allows loading ROMs from the SD Card slot and an expanded
-featureset.
+Sg](https://www.analogue.co/pages/mega-sg/) that allows loading 
+ROMs from the SD Card slot, and an expanded featureset.
 
 ## Updating Firmware
 
@@ -58,7 +57,7 @@ to the file menu and save your progress before powering down.
 
 
 ## Changelog
-
+- [JBX.X](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.4/snt_firmware_verJB6.4.bin) 2019-0X-XX Initial release :heart:
 
 ## Known Issues
 
@@ -74,9 +73,10 @@ The custom firmware is not coded by
 [frederic-mahe](https://github.com/frederic-mahe), but please do
 report problems here at GitHub for support. Priority will be given to
 jailbreak-specific problems (using ROMs through the SD card slot
-rather than through the cartridge slot). You can join the [discord
-server](https://discord.gg/EX57xnF) if you want to chat with the Mega
-Sg community.
+rather than through the cartridge slot). Feel free to also submit issues 
+for non-jailbreak related problems. You can join the [Classic Gaming
+Discord](https://discord.gg/EX57xnF) to chat or troubleshoot 
+in #analogue-mega-sg
 
 Use at your own discretion. We are not responsible for any damage or
 data loss caused by custom firmware installation or use.
