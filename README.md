@@ -29,13 +29,13 @@ updates, but please still follow the above precautions to be safe.
 
 ## Organizing ROMs
 
-An empty folder structure is included in "MSG JB Filesystem.zip". 
-Drop your ROMs into those subfolders (see [SmokeMonster's
+An empty folder structure is included in [MSG JB Filesystem.zip](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/MSG%20JB%20Filesystem.zip) 
+Drop your ROMs into these subfolders and they will be 
+automatically entered when the corresponding core is loaded (see [SmokeMonster's
 database](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)
-for a curated [list of valid Megadrive
-ROMs](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database/blob/master/EverDrive%20Pack%20SMDBs/Mega%20EverDrive%20SMDB.txt)). The maximum number of files (ROMs 
-and subfolders) that can be placed in a given folder is around 300-500,
-depending on the length of the filenames.
+for a curated [list of ROMs](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)). 
+The maximum number of files (ROMs and subfolders) that can be placed 
+in a given folder is around 300-500, depending on the length of the filenames.
 
 ## Running ROMs
 
@@ -70,6 +70,7 @@ to the file menu and save your progress before powering down.
 ## Other Features
 `Sega CD BIOS loading`
 `ColecoVision Super Game Module and Super Banking`
+`And much more`
 
 ## Problem Reporting and Community Chat
 
