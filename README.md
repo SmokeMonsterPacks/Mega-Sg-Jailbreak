@@ -13,7 +13,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Place the firmware file
-[msg_firmware_verJBX.Y.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/releases/download/)
+[msg_firmware_verJB7.3.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/releases/download/)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Mega Sg and power
 on. The firmware will be flashed to the console. This process may take
@@ -29,16 +29,13 @@ updates, but please still follow the above precautions to be safe.
 
 ## Organizing ROMs
 
-Create a folder called `MEGADRIVE` at the root of your SD card, and
-drop your folders and subfolders of ROMs inside (see [SmokeMonster's
+An empty folder structure is included in "MSG JB Filesystem.zip". 
+Drop your ROMs into those subfolders (see [SmokeMonster's
 database](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)
 for a curated [list of valid Megadrive
-ROMs](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database/blob/master/EverDrive%20Pack%20SMDBs/Mega%20EverDrive%20SMDB.txt)).
-The system will search for ROMs in the `/MEGADRIVE/` folder first, or
-the root directory of the SD card if there is no `/MEGADRIVE/` folder.
-The maximum number of files (ROMs and subfolders) that can be placed
-in a given folder is around 300-500, depending on the length of the
-filenames.
+ROMs](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database/blob/master/EverDrive%20Pack%20SMDBs/Mega%20EverDrive%20SMDB.txt)). The maximum number of files (ROMs 
+and subfolders) that can be placed in a given folder is around 300-500,
+depending on the length of the filenames.
 
 ## Running ROMs
 
@@ -57,15 +54,20 @@ to the file menu and save your progress before powering down.
 
 
 ## Changelog
-- [JBX.X](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/releases/download/v6.4/snt_firmware_verJB6.4.bin) 2019-0X-XX Initial release :heart:
+- [JB7.3](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin) 2019-04-01 Initial release :heart:
 
 ## Known Issues
-
-(none so far)
 
 ## Cores Supported
 
 `Genesis/Megadrive`
+`ColecoVision`
+`Game Gear`
+`Master System`
+
+## Other Features
+`Sega CD BIOS loading`
+`ColecoVision Super Game Module and Super Banking`
 
 ## Problem Reporting and Community Chat
 
