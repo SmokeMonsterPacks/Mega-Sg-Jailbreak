@@ -55,6 +55,8 @@ to the file menu and save your progress before powering down.
 
 ## Changelog
 - [JB7.3](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin) 2019-04-01 Initial release :heart:
+- includes all fixes from official firmware v4.3
+- PDF user guide with documentation
 
 ## Known Issues
 
