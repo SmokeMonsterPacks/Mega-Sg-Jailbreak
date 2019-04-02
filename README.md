@@ -29,13 +29,16 @@ updates, but please still follow the above precautions to be safe.
 
 ## Organizing ROMs
 
-An empty folder structure is included in [MSG JB Filesystem.zip](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/MSG%20JB%20Filesystem.zip) 
-Drop your ROMs into these subfolders and they will be 
-automatically entered when the corresponding core is loaded (see [SmokeMonster's
+An empty folder structure is included in [MSG JB
+Filesystem.zip](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/MSG%20JB%20Filesystem.zip)
+Drop your ROMs into these subfolders and they will be automatically
+entered when the corresponding core is loaded (see [SmokeMonster's
 database](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)
-for a curated [list of ROMs](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)). 
-The maximum number of files (ROMs and subfolders) that can be placed 
-in a given folder is around 300-500, depending on the length of the filenames.
+for curated [lists of
+ROMs](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)).
+The maximum number of files (ROMs and subfolders) that can be placed
+in a given folder is around 300-500, depending on the length of the
+filenames.
 
 ## Running ROMs
 
@@ -54,23 +57,26 @@ to the file menu and save your progress before powering down.
 
 
 ## Changelog
+
 - [JB7.3](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin) 2019-04-01 Initial release :heart:
-- includes all fixes from official firmware v4.3
-- PDF user guide with documentation
+ - includes all fixes from official firmware v4.3
+ - PDF user guide with documentation
 
 ## Known Issues
 
+
 ## Cores Supported
 
-`Genesis/Megadrive`
-`ColecoVision`
-`Game Gear`
-`Master System`
+- `Genesis/Megadrive`
+- `Master System`
+- `Game Gear`
+- `ColecoVision`
 
 ## Other Features
-`Sega CD BIOS loading`
-`ColecoVision Super Game Module and Super Banking`
-`And much more`
+
+- Sega CD BIOS loading
+- ColecoVision Super Game Module and Super Banking
+- and much more
 
 ## Problem Reporting and Community Chat
 
