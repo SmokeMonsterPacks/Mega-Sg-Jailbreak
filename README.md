@@ -13,7 +13,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Place the firmware file
-[msg_firmware_verJB7.3.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/releases/download/)
+[msg_firmware_verJB7.3.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Mega Sg and power
 on. The firmware will be flashed to the console. This process may take
