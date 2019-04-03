@@ -61,8 +61,13 @@ to the file menu and save your progress before powering down.
   - includes all fixes from official firmware v4.3
   - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/Mega%20Sg%20Unofficial%20Jailbreak%20Supplement%20JBv7.3.pdf) with documentation
 
-## Known Issues
+## Warnings
 
+- Sega CD Region-Free BIOS are problematic even on real hardware, so
+it's recommended to use an official SCD firmware from the region 
+of game you wish to boot. Also, you must use a PAL CD BIOS for PAL 
+games and NTSC for NTSC.
+- Clean your Sega CD's edge connector with Deoxit before reporting issues.
 
 ## Cores Supported
 
