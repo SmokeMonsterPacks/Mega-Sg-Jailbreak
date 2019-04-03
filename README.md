@@ -6,6 +6,7 @@ from the SD Card slot, and an expanded featureset.
 
 ## Updating Firmware
 
+[Video Walkthrough](https://www.youtube.com/watch?v=xMBruBrhnv8). 
 Format a 2GB (or larger) SD card as
 [FAT32](https://en.wikipedia.org/wiki/FAT32) (FAT16 and exFAT are not
 supported). In Windows, you must use a tool for cards larger than
