@@ -14,7 +14,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Place the firmware file
-[msg_firmware_verJB7.3.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin)
+[msg_firmware_verJB7.4.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.4.bin)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Mega Sg and power
 on. The firmware will be flashed to the console. This process may take
@@ -58,6 +58,27 @@ to the file menu and save your progress before powering down.
 
 ## Changelog
 
+- [JB7.4](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.4.bin) 2019-04-16
+  - includes all fixes from official firmware v4.4:
+    - Sega CD - adjusted timing i.e. Mickey Mania
+    - Overdrive 2 demo is 100%
+    - X-men 2 character select fixed
+    - Fixed player 2 XYZ (6 buttons)
+    - Allow no controller on player 2
+    - SMS fixes for X7 and flash everdrive
+    - You now stay in the file browser when selecting a font
+    - Changed "hotkeys" to "hotkeys & controllers"
+  - plus:
+    - Sega CD BIOS substitution works properly now on games like snatcher
+    - Fixed speech on Coleco Wizard of Wor
+    - Fixed random crashes in Wizard of Wor and majikazo
+    - Fixed graphics issue on Juno First and Astrododge
+    - Fixed sprites sticking around between games
+    - Added warning: CD BIOS replacer only works if fix region is turned on
+    - SMS BIOS now also works for cartridges
+    - Game gear buffer changed to zero delay by default
+  - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/Mega%20Sg%20Unofficial%20Jailbreak%20Supplement%20JBv7.4.pdf) with documentation
+  
 - [JB7.3](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin) 2019-04-01 Initial release :heart:
   - includes all fixes from official firmware v4.3
   - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/Mega%20Sg%20Unofficial%20Jailbreak%20Supplement%20JBv7.3.pdf) with documentation
