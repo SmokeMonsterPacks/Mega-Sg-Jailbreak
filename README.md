@@ -77,11 +77,10 @@ to the file menu and save your progress before powering down.
     - Added warning: CD BIOS replacer only works if fix region is turned on
     - SMS BIOS now also works for cartridges
     - Game gear buffer changed to zero delay by default
-  - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/Mega%20Sg%20Unofficial%20Jailbreak%20Supplement%20JBv7.4.pdf) with documentation
+  - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/Mega_Sg_Unofficial_Jailbreak_Supplement_JBv7.4.pdf) with documentation
   
 - [JB7.3](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin) 2019-04-01 Initial release :heart:
   - includes all fixes from official firmware v4.3
-  - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/Mega%20Sg%20Unofficial%20Jailbreak%20Supplement%20JBv7.3.pdf) with documentation
 
 ## Warnings
 
