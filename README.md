@@ -4,10 +4,12 @@ Custom "*Jailbreak*" firmware for the [Analogue Mega
 Sg](https://www.analogue.co/pages/mega-sg/) that allows loading ROMs
 from the SD Card slot, and an expanded featureset.
 
+
 ## Updating Firmware
 
-[Video Walkthrough](https://www.youtube.com/watch?v=xMBruBrhnv8). 
-Format a 2GB (or larger) SD card as
+As shown in this [video
+walkthrough](https://www.youtube.com/watch?v=xMBruBrhnv8), format a
+2GB (or larger) SD card as
 [FAT32](https://en.wikipedia.org/wiki/FAT32) (FAT16 and exFAT are not
 supported). In Windows, you must use a tool for cards larger than
 32GB, such as
@@ -28,24 +30,27 @@ firmware file from your card after flashing.
 The Mega Sg is protected from bricking as a result of firmware
 updates, but please still follow the above precautions to be safe.
 
+
 ## Organizing ROMs
 
 An empty folder structure is included in [MSG JB
-Filesystem.zip](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/MSG%20JB%20Filesystem.zip)
-Drop your ROMs into these subfolders and they will be automatically
-entered when the corresponding core is loaded (see [SmokeMonster's
+Filesystem.zip](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/MSG%20JB%20Filesystem.zip).
+Drop your ROMs into these subfolders (see [SmokeMonster's
 database](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)
 for curated [lists of
 ROMs](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)).
-The maximum number of files (ROMs and subfolders) that can be placed
-in a given folder is around 300-500, depending on the length of the
-filenames.
+When loading a core, the Mega Sg will automatically enter the
+corresponding subfolder.  The maximum number of files (ROMs and
+subfolders) that can be placed in a given folder is around 300-500,
+depending on the length of the filenames.
+
 
 ## Running ROMs
 
 Select **browse SD card** from the main menu.  Hit **enter** on a
 filename to run it, or if it's a subfolder, it will enter said folder.
 The menu hotkey will return to the file menu from the game.
+
 
 ## Saves
 
@@ -55,6 +60,7 @@ good practice to backup saves before updating firmware.
 
 When a game is exited to the menu, it will prompt you to save. Return
 to the file menu and save your progress before powering down.
+
 
 ## Changelog
 
@@ -77,10 +83,12 @@ to the file menu and save your progress before powering down.
     - Added warning: CD BIOS replacer only works if fix region is turned on
     - SMS BIOS now also works for cartridges
     - Game gear buffer changed to zero delay by default
-  - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/Mega_Sg_Unofficial_Jailbreak_Supplement_JBv7.4.pdf) with documentation
+  - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/documentation/Mega_Sg_Unofficial_Jailbreak_Supplement_JBv7.4.pdf) with documentation
   
 - [JB7.3](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin) 2019-04-01 Initial release :heart:
   - includes all fixes from official firmware v4.3
+  - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/documentation/Mega_Sg_Unofficial_Jailbreak_Supplement_JBv7.3.pdf) with documentation
+
 
 ## Warnings
 
@@ -90,6 +98,7 @@ of game you wish to boot. Also, you must use a PAL CD BIOS for PAL
 games and NTSC for NTSC.
 - Clean your Sega CD's edge connector with Deoxit before reporting issues.
 
+
 ## Cores Supported
 
 - `Genesis/Megadrive`
@@ -97,11 +106,13 @@ games and NTSC for NTSC.
 - `Game Gear`
 - `ColecoVision`
 
+
 ## Other Features
 
 - Sega CD BIOS loading
 - ColecoVision Super Game Module and Super Banking
 - and much more!
+
 
 ## Problem Reporting and Community Chat
 
