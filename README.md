@@ -64,7 +64,7 @@ to the file menu and save your progress before powering down.
 
 ## Changelog
 
-- [JB7.4](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.4.bin) 2019-04-16
+- [JB7.4](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/archive/v7.4.zip) 2019-04-16
   - includes all fixes from official firmware v4.4:
     - Sega CD - adjusted timing i.e. Mickey Mania
     - Overdrive 2 demo is 100%
@@ -85,7 +85,7 @@ to the file menu and save your progress before powering down.
     - Game gear buffer changed to zero delay by default
   - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/documentation/Mega_Sg_Unofficial_Jailbreak_Supplement_JBv7.4.pdf) with documentation
   
-- [JB7.3](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.3.bin) 2019-04-01 Initial release :heart:
+- [JB7.3](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/archive/v7.3.zip) 2019-04-01 Initial release :heart:
   - includes all fixes from official firmware v4.3
   - [PDF user guide](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/documentation/Mega_Sg_Unofficial_Jailbreak_Supplement_JBv7.3.pdf) with documentation
 
