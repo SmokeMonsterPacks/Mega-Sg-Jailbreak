@@ -66,19 +66,19 @@ to the file menu and save your progress before powering down.
 
 - [JB7.4](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/archive/v7.4.zip) 2019-04-16
   - includes all fixes from official firmware v4.4:
-    - Sega CD - adjusted timing i.e. Mickey Mania
-    - Overdrive 2 demo is 100%
-    - X-men 2 character select fixed
+    - Sega CD - adjusted timing i.e. *Mickey Mania*
+    - *Overdrive 2 demo* is 100%
+    - *X-men 2* character select fixed
     - Fixed player 2 XYZ (6 buttons)
     - Allow no controller on player 2
     - SMS fixes for X7 and flash everdrive
     - You now stay in the file browser when selecting a font
     - Changed "hotkeys" to "hotkeys & controllers"
   - plus:
-    - Sega CD BIOS substitution works properly now on games like snatcher
-    - Fixed speech on Coleco Wizard of Wor
-    - Fixed random crashes in Wizard of Wor and majikazo
-    - Fixed graphics issue on Juno First and Astrododge
+    - Sega CD BIOS substitution works properly now on games like *Snatcher*
+    - Fixed speech on Coleco *Wizard of Wor*
+    - Fixed random crashes in *Wizard of Wor* and *Majikazo*
+    - Fixed graphics issue on *Juno First* and *Astrododge*
     - Fixed sprites sticking around between games
     - Added warning: CD BIOS replacer only works if fix region is turned on
     - SMS BIOS now also works for cartridges
