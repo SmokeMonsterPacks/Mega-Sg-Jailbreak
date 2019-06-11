@@ -76,30 +76,30 @@ to the file menu and save your progress before powering down.
     - fixed CD games that regressed in previous fw
     - Some graphic issues on Mickey Mania CD and others fixed.
     - Fixed bugs with Japanese Sega CDs.
-    - Silpheed and Vay bugs fixed.
-    - Popful Mail "CPU ERROR" fixed.
+    - *Silpheed* and *Vay* bugs fixed.
+    - *Popful Mail* "CPU ERROR" fixed.
     - CD bus timing improvements.
-    - Pier Solar cartridge + audio CD works and tested on US model 1, US model 2, and Japanese CD units.
+    - *Pier Solar* cartridge + audio CD works and tested on US model 1, US model 2, and Japanese CD units.
     - Added an option to automatically enable CD audio when CD unit plugged in.
-    - Fixed FM sound bug on Streets of Rage percussion on certain tracks.
-    - Fixed PSG sound bug (Phantasy Star IV).
+    - Fixed FM sound bug on *Streets of Rage* percussion on certain tracks.
+    - Fixed PSG sound bug (*Phantasy Star IV*).
     - CRAM dots option added.
-    - X-Men 2 random character select on start is now random.
+    - *X-Men 2* random character select on start is now random.
 
     (sms)
     - SMS Cropping setting added to crop the left side when a game used left cut.
-    - Fixed PSG sound bug (Alex Kidd in Miracle World).
+    - Fixed PSG sound bug (*Alex Kidd in Miracle World*).
     - CRAM dots option added.
     - VDP palette option added to select SMS or original TMS9918a palette for video modes 0-3.
     - All 240 scanlines are now visible. Before, only 239 were visible.
 
   - plus:
     - CD BIOS replacement works now after a reboot
-    - Coleco Gradius mapper + flash memory supported. Use extension .CF0 for this game.
-    - Coleco Jungle Hunt / Learning with Leeper had stuttering scrolling. This is fixed.
-    - Coleco Risky Rick console detection fixed. Note: there are two versions of the game. A full version and a demo version. If the game does not let you progress to level 2, it is the demo version.
-    - Fixed Super Game Module AY-3-8910 write delay. This fixes the pitch of speech on Wizard of Wor.
-    - Megaman Wily Wars not saving EEPROM data. This is fixed.
+    - Coleco *Gradius* mapper + flash memory supported. Use extension .CF0 for this game.
+    - Coleco *Jungle Hunt* / *Learning with Leeper* had stuttering scrolling. This is fixed.
+    - Coleco *Risky Rick* console detection fixed. Note: there are two versions of the game. A full version and a demo version. If the game does not let you progress to level 2, it is the demo version.
+    - Fixed Super Game Module AY-3-8910 write delay. This fixes the pitch of speech on *Wizard of Wor*.
+    - *Megaman Wily Wars* not saving EEPROM data. This is fixed.
 
 - [JB7.4](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/archive/v7.4.zip) 2019-04-16
   - includes all fixes from official firmware v4.4:
