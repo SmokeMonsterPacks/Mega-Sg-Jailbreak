@@ -95,7 +95,7 @@ to the file menu and save your progress before powering down.
 
   - plus:
     - CD BIOS replacement works now after a reboot
-    - Coleco Gradius mapper + flash memory supported. Use extention .CF0 for this game.
+    - Coleco Gradius mapper + flash memory supported. Use extension .CF0 for this game.
     - Coleco Jungle Hunt / Learning with Leeper had stuttering scrolling. This is fixed.
     - Coleco Risky Rick console detection fixed. Note: there are two versions of the game. A full version and a demo version. If the game does not let you progress to level 2, it is the demo version.
     - Fixed Super Game Module AY-3-8910 write delay. This fixes the pitch of speech on Wizard of Wor.
