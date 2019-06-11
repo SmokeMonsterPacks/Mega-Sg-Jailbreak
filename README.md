@@ -86,7 +86,7 @@ to the file menu and save your progress before powering down.
     - CRAM dots option added.
     - X-Men 2 random character select on start is now random.
 
-      (sms)
+    (sms)
     - SMS Cropping setting added to crop the left side when a game used left cut.
     - Fixed PSG sound bug (Alex Kidd in Miracle World).
     - CRAM dots option added.
