@@ -160,7 +160,7 @@ report problems here at GitHub for support. Priority will be given to
 jailbreak-specific problems (using ROMs through the SD card slot
 rather than through the cartridge slot). Feel free to also submit
 issues for non-jailbreak related problems. You can join the [Classic
-Gaming Discord](https://discord.gg/EX57xnF) to chat or troubleshoot in
+Gaming Discord](https://discord.gg/UDu5ztY) to chat or troubleshoot in
 #analogue-mega-sg
 
 Use at your own discretion. We are not responsible for any damage or
