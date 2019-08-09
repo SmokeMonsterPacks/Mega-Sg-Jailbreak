@@ -16,7 +16,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Place the firmware file
-[msg_firmware_verJB7.6.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.6.bin)
+[msg_firmware_verJB7.6.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/msg_firmware_verJB7.6.bin)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Mega Sg and power
 on. The firmware will be flashed to the console. This process may take
@@ -64,7 +64,7 @@ to the file menu and save your progress before powering down.
 
 ## Changelog
 
-- [JB7.6](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.6.bin) 2019-08-09
+- [JB7.6](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/msg_firmware_verJB7.6.bin) 2019-08-09
   - includes all fixes from official firmware v4.6:
     - Added DAC
     - Added light gun support with DAC
