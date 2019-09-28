@@ -34,7 +34,7 @@ updates, but please still follow the above precautions to be safe.
 ## Organizing ROMs
 
 An empty folder structure is included in [MSG JB
-Filesystem.zip](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/MSG%20JB%20Filesystem.zip).
+Filesystem.zip](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/MSG%20JB%20Filesystem.zip).
 Drop your ROMs into these subfolders (see [SmokeMonster's
 database](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)
 for curated [lists of
