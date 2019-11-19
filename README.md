@@ -64,6 +64,17 @@ to the file menu and save your progress before powering down.
 
 ## Changelog
 
+- [JB7.7](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/msg_firmware_verJB7.7.bin) 2019-11-19
+  - includes fixes from official firmware v4.7:
+    - Zesenilia demo text fixed
+    - Turbo Outrun graphics seem to be fixed
+    - Audio pitch shifting on some games in zero delay mode fixed
+  - plus:
+    - Fixed large SMS BIOSes not working issue
+    - CJ Elephant now works properly
+    - Hardball 95 "SRAM error" fixed
+    - Many other minor fixes
+
 - [JB7.6](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/msg_firmware_verJB7.6.bin) 2019-08-09
   - includes all fixes from official firmware v4.6:
     - Added DAC
