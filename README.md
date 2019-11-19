@@ -16,7 +16,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Place the firmware file
-[msg_firmware_verJB7.6.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/msg_firmware_verJB7.6.bin)
+[msg_firmware_verJB7.7.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.7.bin)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Mega Sg and power
 on. The firmware will be flashed to the console. This process may take
@@ -65,10 +65,17 @@ to the file menu and save your progress before powering down.
 ## Changelog
 
 - [JB7.7](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/msg_firmware_verJB7.7.bin) 2019-11-19
-  - includes fixes from official firmware v4.7:
-    - Zesenilia demo text fixed
-    - Turbo Outrun graphics seem to be fixed
-    - Audio pitch shifting on some games in zero delay mode fixed
+  - includes all fixes from official firmware v4.7:
+      - 32X support added in DAC mode
+    - Cartridge/CD audio selection fixed. Checking 'enable cartridge and CD audio' will work now regardless of the 'automatic' setting checkbox.
+    - 32X is detected and will enable audio by default.
+    - Chuck Rock CD is now working.
+    - Many CD fixes- NHL 94, Willy Beamish, and other games now work.
+    - Zesenilia demo text fixed.
+    - Turbo Outrun graphics seem to be fixed.
+    - Audio pitch shifting on some games in zero delay mode fixed.
+    - Support for cartridge adapters added.
+    - Game Gear adapter supports the tuner now.
   - plus:
     - Fixed large SMS BIOSes not working issue
     - CJ Elephant now works properly
