@@ -16,7 +16,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Place the firmware file
-[msg_firmware_verJB7.7.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/msg_firmware_verJB7.7.bin)
+[msg_firmware_verJB7.8.bin](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.8.bin)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Mega Sg and power
 on. The firmware will be flashed to the console. This process may take
@@ -68,6 +68,22 @@ The **System -> Font** menu allows you to select your own font in place of those
 
 
 ## Changelog
+- [JB7.8](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.8.bin) 2020-02-22
+  - Added blurring for the entire screen - enable dither blending and set blending depth to maximum
+  - Added SPD HDMI packet to identify as 'Mega sg"
+  - Added timing sliders for Sega CD
+  - Added horizontal position slider for DAC/analog output
+  - Added SMS Model 1 reset by pressing X, Y, and Z at the same time on a 6 button controller
+  - Fixed non-visble top scanline in HDMI
+  - Fixed graphical corruption in Paprium
+  - Fixed six button controller reading for Ultracore, Paprium and other games
+  - Fixed cartridge adapters failing to work properly if startup is set to "Cartridge Direct"
+  - Fixed Spider Man: Web of Fire 32x cartridge not working
+  - Fixed non-centered picture when horizontal/vertical position sliders are centered
+  - Fixed Z80 inability to write to the cartridge bus
+  - Fixed timing bug reported by krikzz
+  - Fixed Coleco Super Game Module not running Penguin Adventure
+  - Fixed Squish 'em Sam digitized audio
 
 - [JB7.7](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/raw/master/firmware/msg_firmware_verJB7.7.bin) 2019-11-19
   - includes all fixes from official firmware v4.7:
