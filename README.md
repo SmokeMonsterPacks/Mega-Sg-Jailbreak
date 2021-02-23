@@ -68,7 +68,7 @@ The **System -> Font** menu allows you to select your own font in place of those
 
 
 ## Changelog
-- [JB7.8](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.8.bin) 2020-02-22
+- [JB7.8](https://github.com/SmokeMonsterPacks/Mega-Sg-Jailbreak/blob/master/firmware/msg_firmware_verJB7.8.bin) 2021-02-22
   - Added blurring for the entire screen - enable dither blending and set blending depth to maximum
   - Added SPD HDMI packet to identify as 'Mega sg"
   - Added timing sliders for Sega CD
