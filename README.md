@@ -74,7 +74,7 @@ The **System -> Font** menu allows you to select your own font in place of those
   - Added timing sliders for Sega CD
   - Added horizontal position slider for DAC/analog output
   - Added SMS Model 1 reset by pressing X, Y, and Z at the same time on a 6 button controller
-  - Fixed non-visble top scanline in HDMI
+  - Fixed non-visible top scanline in HDMI
   - Fixed graphical corruption in Paprium
   - Fixed six button controller reading for Ultracore, Paprium and other games
   - Fixed cartridge adapters failing to work properly if startup is set to "Cartridge Direct"
