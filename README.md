@@ -4,6 +4,8 @@ Custom "*Jailbreak*" firmware for the [Analogue Mega
 Sg](https://www.analogue.co/pages/mega-sg/) that allows loading ROMs
 from the SD Card slot, and an expanded featureset.
 
+**The latest Jailbreak firmware can be found at the [analoguejb](https://github.com/analoguejb/Analogue-Mega-Sg-JB) GitHub page.**
+
 
 ## Updating Firmware
 
